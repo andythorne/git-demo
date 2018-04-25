@@ -5,3 +5,4 @@ A demo of git and merge vs rebase
 Second addition to merge commit
 
 # This is a rebase commit!
+Secont addition to rebase commit
